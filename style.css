@@ -122,3 +122,16 @@ button:hover{
   cursor: pointer;
   opacity: 0.8;
 }
+
+@media (max-width: 650px){
+    .left, .right{
+      width: 100%;
+      
+    }
+    container{
+      height: auto;
+      
+
+      
+    }
+}
